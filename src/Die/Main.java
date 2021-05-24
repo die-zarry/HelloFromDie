@@ -12,6 +12,8 @@ public class Main {
         System.out.println("Hello From: ");
         String myName = input.nextLine();
         System.out.println("Hello, my name is: " + myName);
-        System.out.println("We want to be expert in java programming.");
+        String teamName = input.nextLine();
+        System.out.println("Hello " + teamName);
+        System.out.println("my name is " + myName);
     }
 }
