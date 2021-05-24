@@ -15,5 +15,6 @@ public class Main {
         String teamName = input.nextLine();
         System.out.println("Hello " + teamName);
         System.out.println("my name is " + myName);
+        System.out.println("youpieee");
     }
 }
